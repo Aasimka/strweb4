@@ -15,7 +15,7 @@ public class GetAllRows {
 
             stmt = JDBC.connection.createStatement();
 
-            String exampleQuery1 = "SELECT * FROM Authors";
+            String exampleQuery1 = "SELECT * FROM Authors ORDER BY firstName";
             System.out.println("Authors:");
             ResultSet rs1 = stmt.executeQuery(exampleQuery1);
             while (rs1.next()) {

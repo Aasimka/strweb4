@@ -10,12 +10,13 @@ public class JDBC {
         try{
             Class.forName("com.mysql.cj.jdbc.Driver");
             System.out.println("MySQL JDBC Driver Registered!");
-        }catch(ClassNotFoundException e) {
+        }
+        catch(ClassNotFoundException e) {
             System.out.println("Where is your MySQL JDBC Driver?");
             e.printStackTrace();
             throw new SQLException();
         }
-        connection = DriverManager.getConnection("jdbc:mysql://localhost/books3?useUnicode=true&serverTimezone=UTC", "root", "3787");
+        connection = DriverManager.getConnection("jdbc:mysql://localhost/books3?useUnicode=true&serverTimezone=UTC", "root", "7984Asi+");
         if(connection == null){
             throw new SQLException();
         }else{

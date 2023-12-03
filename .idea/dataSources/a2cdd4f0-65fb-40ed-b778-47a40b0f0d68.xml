@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataSource name="books3@localhost">
+<dataSource name="books3@localhost [2]">
   <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.49">
     <root id="1">
       <DefaultCasing>lower/lower</DefaultCasing>
@@ -1029,8 +1029,8 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
     </schema>
     <schema id="289" parent="1" name="books3">
       <Current>1</Current>
-      <IntrospectionTimestamp>2023-12-04.01:26:20</IntrospectionTimestamp>
-      <LocalIntrospectionTimestamp>2023-12-03.19:26:20</LocalIntrospectionTimestamp>
+      <IntrospectionTimestamp>2023-12-04.01:26:02</IntrospectionTimestamp>
+      <LocalIntrospectionTimestamp>2023-12-03.19:26:02</LocalIntrospectionTimestamp>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="290" parent="1" name="hib1">

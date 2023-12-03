@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a56b5444-918d-45ec-83af-69dd7923f1f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Query/Query.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Query/Query1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Query/Query2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Connection/JDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Connection/JDBC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Query.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/TestOfTables/InsertTestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/TestOfTables/InsertTestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8f5f380e-57af-4e27-a464-eb74e4f20bb3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8f5f380e-57af-4e27-a464-eb74e4f20bb3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8f5f380e-57af-4e27-a464-eb74e4f20bb3/storage_v2/_src_/schema/books3.yTKLrQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8f5f380e-57af-4e27-a464-eb74e4f20bb3/storage_v2/_src_/schema/books3.yTKLrQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +17,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="248641bad05d2157b2ea54b8273284f5c261f221" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2YtsarOaRE7tbDdjUvAqpAjRO21" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,9 +53,11 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/chabr/Desktop/Lab4/mysql-connector-j-8.2.0.jar",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -52,6 +66,69 @@
     ]
   }
 }]]></component>
+  <component name="RunManager" selected="Application.TestDatabase">
+    <configuration name="CreateTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TestOfTables.CreateTables" />
+      <module name="Lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.TestOfTables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetAllRows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TestOfTables.GetAllRows" />
+      <module name="Lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.TestOfTables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Query" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Query.Query" />
+      <module name="Lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Query.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDatabase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Connection.TestDatabase" />
+      <module name="Lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Connection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDatabase" />
+        <item itemvalue="Application.Query" />
+        <item itemvalue="Application.TestDatabase" />
+        <item itemvalue="Application.GetAllRows" />
+        <item itemvalue="Application.CreateTables" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,5 +143,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b5444-918d-45ec-83af-69dd7923f1f0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8f5f380e-57af-4e27-a464-eb74e4f20bb3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8f5f380e-57af-4e27-a464-eb74e4f20bb3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8f5f380e-57af-4e27-a464-eb74e4f20bb3/storage_v2/_src_/schema/books3.yTKLrQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8f5f380e-57af-4e27-a464-eb74e4f20bb3/storage_v2/_src_/schema/books3.yTKLrQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a56b5444-918d-45ec-83af-69dd7923f1f0" name="Changes" comment="50/50 work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,10 +133,23 @@
       <updated>1701356280298</updated>
       <workItem from="1701356281337" duration="282000" />
     </task>
+    <task id="LOCAL-00001" summary="50/50 work">
+      <option name="closed" value="true" />
+      <created>1701632241476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701632241476</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="50/50 work" />
+    <option name="LAST_COMMIT_MESSAGE" value="50/50 work" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
